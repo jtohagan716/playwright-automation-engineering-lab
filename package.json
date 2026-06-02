@@ -1,0 +1,23 @@
+{
+  "name": "playwright-automation-engineering-lab",
+  "version": "1.0.0",
+  "description": "Playwright-based test automation framework demonstrating QA engineering practices, CI/CD integration, test reliability, debugging workflows, and maintainable test architecture using TypeScript.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtohagan716/playwright-automation-engineering-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jtohagan716/playwright-automation-engineering-lab/issues"
+  },
+  "homepage": "https://github.com/jtohagan716/playwright-automation-engineering-lab#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1"
+  }
+}
